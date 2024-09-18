@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Data Platform Engineer<br>👯 I’m looking to collaborate on Healthcare System Projects<br>🤝 I’m looking for help with Chatbot Tuning and Recommendation Systems<br>🌱 I’m currently learning Cloud Data Engineering<br>💬 Ask me about Computer Science & Machine Learning<br>⚡ Fun fact "I love playing games and was a gaming content creator for years".
+🔭 I’m currently working as a Data Platform Engineer<br>👯 I’m looking to collaborate on Healthcare System Projects<br>🤝 I’m looking for help with Chatbot Tuning and Recommendation Systems<br>🌱 I’m currently learning Cloud Data Engineering<br>💬 Ask me about Computer Science & Machine Learning<br>⚡ Fun fact "I love playing games and was a gaming content creator for years."
 
 
 ## 🌐 Socials:
