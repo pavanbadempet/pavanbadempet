@@ -46,7 +46,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)# 📊 GitHub Stats:
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pavanbadempet&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavanbadempet&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbadempet&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
