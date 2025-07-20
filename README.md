@@ -1,17 +1,16 @@
 # 💫 About Me:
-💼 I’m currently working as a Data Platform Engineer<br>🤝 I’m looking to collaborate on Data Driven Projects<br>🌱 I’m currently learning Cloud Data Engineering<br>💬 Ask me about Computer Science & Machine Learning<br>⚡ Fun fact "I love playing games and was a gaming content creator for years."
+💼 I’m currently working as a Data Engineer<br>🤝 I’m looking to collaborate on Data Driven Projects<br>🌱 I’m currently learning GenAI + Data Platform Engineering<br>💬 Ask me about Data, CS & Machine Learning<br>⚡ Fun fact "I love playing games and was a gaming content creator for years."
 
 # 💻 Tech Stack:
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 
 ## Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=FastAPI&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
