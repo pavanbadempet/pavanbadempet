@@ -66,7 +66,4 @@
 <div align="center">
   
 ### 💬 "Data is the new oil, but analytics is the combustion engine."
-
-![Profile Views](https://komarev.com/ghpvc/?username=pavanbadempet&color=blue&style=flat-square)
-
 </div>
