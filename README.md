@@ -31,9 +31,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavanbadempet&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbadempet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavanbadempet&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanbadempet/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6325621/pavan-badempet) 
