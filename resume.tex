@@ -1,0 +1,177 @@
+%-------------------------
+% Pavan Badempet - Data Engineer Resume
+% Target: Spark/PySpark, Data Engineering, Databricks-track,
+%         product companies, and capital-markets technology roles
+% ATS-friendly, one-page LaTeX
+%-------------------------
+
+\documentclass[a4paper,10pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.46in]{geometry}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{microtype}
+\input{glyphtounicode}
+
+\pdfgentounicode=1
+\pagestyle{empty}
+\raggedright
+\raggedbottom
+\urlstyle{same}
+\setlength{\tabcolsep}{0pt}
+
+\titleformat{\section}
+  {\vspace{-2pt}\large\scshape\raggedright}
+  {}{0em}{}
+  [\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{\item\small{#1}}
+
+\newcommand{\resumeSubheading}[4]{
+  \item
+  \begin{tabular*}{0.99\textwidth}[t]{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small #3} & \textit{\small #4}
+  \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeProjectHeading}[1]{
+  \item\small{#1}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubHeadingListStart}{
+  \begin{itemize}[leftmargin=0.06in,label={},itemsep=3pt,topsep=2pt]
+}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+
+\newcommand{\resumeItemListStart}{
+  \begin{itemize}[leftmargin=0.18in,itemsep=0pt,topsep=1pt,parsep=0pt,partopsep=0pt]
+}
+
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-4pt}}
+
+\hypersetup{
+  pdftitle={Pavan Badempet - Data Engineer Resume},
+  pdfauthor={Pavan Badempet},
+  pdfsubject={Data Engineering, Apache Spark, AWS, Snowflake, Databricks},
+  pdfkeywords={Data Engineer, Python, SQL, Scala, Apache Spark, PySpark, Spark SQL,
+    Spark Structured Streaming, ETL, ELT, Distributed Systems, System Design, Performance Tuning, Query Optimization,
+    Delta Lake, Apache Iceberg, Dremio, Databricks, Lakehouse, AWS, Snowflake,
+    Kubernetes, YARN, HDFS, MinIO, Airflow, AutoSys, Data Quality, Data Warehousing,
+    Dimensional Modeling, Schema Design, Transformation Lineage, Incremental Processing,
+    Idempotency, Monitoring, CI/CD, RAG, Vector Search, FastAPI, AI Engineering}
+}
+
+\begin{document}
+
+%----------HEADER----------
+\begin{center}
+  {\Huge \textbf{Pavan Badempet}} \\ \vspace{1pt}
+  {\large Data Engineer $|$ Apache Spark $|$ Python, SQL \& Scala $|$ AWS \& Snowflake} \\ \vspace{3pt}
+  \small
+  \href{tel:+917989256101}{+91-7989256101}
+  $|$
+  \href{mailto:pavan9b@gmail.com}{pavan9b@gmail.com}
+  $|$
+  \href{https://linkedin.com/in/pavanbadempet}{linkedin.com/in/pavanbadempet}
+  $|$
+  \href{https://github.com/pavanbadempet}{github.com/pavanbadempet}
+\end{center}
+
+%----------SUMMARY----------
+\section{Professional Summary}
+\small{
+Data Engineer with 2.5+ years of experience designing, building, and optimizing production ETL/ELT systems for capital-markets and automotive data using Apache Spark, Python, SQL, Scala, AWS, and Snowflake. Experienced in modular batch architecture, performance tuning, data quality, observability, failure recovery, incremental processing, and YARN/HDFS-to-Kubernetes migration. Builds AI-enabled tooling for codebase discovery, transformation lineage, debugging, and performance and security analysis; hands-on with Spark Structured Streaming, Databricks, Delta Lake, Apache Iceberg, and Dremio.
+}
+
+%----------EXPERIENCE----------
+\section{Experience}
+\resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Data Engineer}{Nov 2023 -- Present}
+    {Tata Consultancy Services}{Hyderabad, India}
+
+  \resumeItemListStart
+    \resumeItem{\textbf{Nomura Capital Markets:} Developed production Spark ETL systems for trade, reference, risk, and valuation data using modular Spark SQL transformations, multi-way joins, window functions, and Dremio-backed Apache Iceberg datasets.}
+
+    \resumeItem{Reduced end-to-end Spark runtime by \textbf{30\%} through execution-plan and stage-metric analysis, broadcast joins, partition pruning, predicate pushdown, strategic persistence, intermediate Parquet materialization, and optimized fact-dimension joins.}
+
+    \resumeItem{Mapped repository architecture, job dependencies, and column-level transformation paths; built reusable Python and Scala utilities for code discovery, lineage tracing, automated debugging, performance analysis, and configuration and security checks using AI-assisted code analysis with test and code-review validation.}
+
+    \resumeItem{Partnered with client stakeholders, onshore leads, and downstream teams to clarify transformation rules, investigate discrepancies, present root causes, validate reconciliations, and execute controlled production fixes and reruns.}
+
+    \resumeItem{Managed AutoSys dependency chains and recovery paths; migrated Spark workloads from YARN/HDFS to Kubernetes/MinIO and resolved S3 connector, configuration, and runtime compatibility issues.}
+
+    \resumeItem{\textbf{Nissan:} Designed a serverless ingestion architecture using AWS Lambda, Step Functions, S3, Streamlit, Snowflake, and CloudWatch for scheduled and ad-hoc loads, schema validation, idempotent reruns, monitoring, and failure recovery.}
+
+    \resumeItem{Implemented incremental processing, data-quality controls, Snowflake-ready curation, and operational alerts, reducing manual preparation by \textbf{60\%}; automated testing with Pytest, Moto, and Streamlit AppTest reduced regression defects by \textbf{25\%}.}
+  \resumeItemListEnd
+
+  \resumeSubheading
+    {Data Analytics Intern}{Mar 2023 -- Apr 2023}
+    {TCS iON}{Hyderabad, India}
+
+  \resumeItemListStart
+    \resumeItem{Built and evaluated an ensemble-based employee attrition model that achieved \textbf{86\% validation accuracy}; designed FastAPI endpoints for inference, validation, and integration testing.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------PROJECTS----------
+\section{Selected Projects}
+\resumeSubHeadingListStart
+
+  \resumeProjectHeading{
+    \textbf{\href{https://github.com/pavanbadempet/AI-Healthcare-System/}{AI Healthcare System}}
+    $|$ \emph{Python, PySpark Streaming, Airflow, Delta Lake, FastAPI, Docker, Kubernetes, AWS}
+  }
+  \resumeItemListStart
+    \resumeItem{Built an end-to-end data platform for \textbf{250k+ clinical records} using \textbf{Apache Airflow} and \textbf{PySpark} pipelines, staging data in partitioned \textbf{Delta Lake} tables.}
+    \resumeItem{Implemented automated cloud retraining triggers via \textbf{Kaggle API} and model weight synchronization with a private \textbf{Hugging Face} dataset hub.}
+    \resumeItem{Developed a \textbf{FastAPI} service with a local vector retrieval index (`turbovec` SIMD), JWT auth, and FHIR R4 clinical compliance serializers.}
+  \resumeItemListEnd
+
+  \resumeProjectHeading{
+    \textbf{\href{https://github.com/pavanbadempet/Movie-Recommendation-System/}{APEX Causal Recommendation Engine}}
+    $|$ \emph{Python, PySpark, Airflow, Delta Lake, Redis, ONNX Runtime, FAISS, FastAPI, Docker}
+  }
+  \resumeItemListStart
+    \resumeItem{Engineered a causal movie recommendation engine using \textbf{PySpark} Medallion pipelines for ETL and feature store curation.}
+    \resumeItem{Developed a real-time clickstream feedback loop using \textbf{Redis streams} to update user sequential states asynchronously (sub-10ms latency).}
+    \resumeItem{Implemented an adaptive serving API with hardware-aware fallbacks (NVIDIA GPU ensembling, quantized ONNX CPU, and SIMD vector index search).}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%----------SKILLS----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.06in,label={},itemsep=0.5pt,topsep=2pt]
+  \small{
+    \item \textbf{Languages:} Python, SQL, Scala, Java
+    \item \textbf{Data Engineering:} Apache Spark, PySpark, Spark SQL, Spark Structured Streaming, ETL/ELT, Distributed Systems, Data Warehousing, Dimensional Modeling, Schema Design
+    \item \textbf{Lakehouse \& Analytics:} Databricks, Delta Lake, Apache Iceberg, Dremio, Snowflake, Lakehouse Architecture, Medallion Architecture
+    \item \textbf{Performance \& Reliability:} Query Optimization, Partitioning, Join Strategies, Incremental Processing, Idempotency, Data Quality, Transformation Lineage, Monitoring, Root-Cause Analysis
+    \item \textbf{Cloud, Orchestration \& DevOps:} AWS (Lambda, Step Functions, S3, Glue, CloudWatch), Kubernetes, YARN, HDFS, MinIO, AutoSys, Airflow, Docker, GitHub Actions, CI/CD, Pytest
+    \item \textbf{Applied AI \& APIs:} FastAPI, Streamlit, RAG, Vector Search, Embeddings, AI-Assisted Code Analysis
+  }
+\end{itemize}
+
+%----------EDUCATION----------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Bachelor of Technology in Computer Science \& Engineering}{Aug 2019 -- Sep 2023}
+    {Guru Nanak Institutions Technical Campus --- Minor in AI/ML}{Hyderabad, India}
+
+  \resumeItemListStart
+    \resumeItem{CGPA: \textbf{8.2/10}, First Class with Distinction $|$ \textbf{Prime Minister's Scholarship}, 2019--2023}
+  \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\end{document}
