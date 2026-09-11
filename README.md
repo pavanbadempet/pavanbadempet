@@ -6,6 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanbadempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
+  <a href="https://github.com/sponsors/pavanbadempet"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?logo=github&style=flat-square" alt="Sponsor Pavan Badempet" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square" alt="License: AGPL v3" /></a>
 </p>
 
 ## 🌌 <span itemprop="jobTitle">Data & MLOps Platform Engineer</span> | Big Data Architect
