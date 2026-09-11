@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanbadempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
+  <a href="https://github.com/pavanbadempet?tab=followers"><img src="https://img.shields.io/github/followers/pavanbadempet?label=Followers&style=flat-square&logo=github&color=24292e" alt="Followers" /></a>
   <a href="https://github.com/sponsors/pavanbadempet"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?logo=github&style=flat-square" alt="Sponsor Pavan Badempet" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square" alt="License: AGPL v3" /></a>
 </p>
@@ -15,91 +16,94 @@
 ## 🌌 <span itemprop="jobTitle">Data & MLOps Platform Engineer</span> | Big Data Architect
 
 <meta itemprop="url" content="https://pavanbadempet.github.io" />
-<meta itemprop="knowsAbout" content="Data Engineering, Big Data, MLOps, Apache Spark, PySpark, Delta Lake, Apache Airflow, Python, Scala, AWS, Kubernetes, PyTorch, Conformal Prediction, FT-Transformers, Lakehouse Architecture" />
+<meta itemprop="knowsAbout" content="Data Engineering, Big Data, MLOps, Apache Spark, PySpark, Delta Lake, Apache Airflow, Databricks, Python, Scala, AWS, Kubernetes, PyTorch, Conformal Prediction, Lakehouse Architecture, Recommendation Systems, Clinical Data Pipelines" />
 <link itemprop="sameAs" href="https://www.linkedin.com/in/pavanbadempet/" />
 <link itemprop="sameAs" href="https://stackoverflow.com/users/6325621/pavan-badempet" />
 
-I am a **Data Engineer and MLOps Platform Specialist** focused on building high-throughput, distributed data platforms, scalable ETL pipelines, and machine learning infrastructure. My expertise lies in designing robust lakehouse architectures (Delta Lake, Lakefs), orchestrating complex workflows (Apache Airflow), and engineering production-grade ML pipelines.
+I am a **Data Platform Engineer and MLOps Architect** specializing in production-grade distributed lakehouses, high-throughput streaming pipelines, and scalable machine learning infrastructure.
 
-Experienced in implementing healthcare interoperability gates (ABDM compliance), real-time vital signal streaming analytics, and deep learning clinical ensembles (FT-Transformers, Bi-LSTM temporal models) with automated cloud retraining triggers.
-
----
-
-### 🚀 Technical Superpowers
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4><b>💻 Languages & Core</b></h4>
-      <code>Python</code> • <code>Scala</code> • <code>SQL (PostgreSQL, MySQL, SQLite)</code> • <code>Java</code> • <code>TypeScript</code> • <code>Go</code> • <code>Bash</code>
-      <br><br>
-      <h4><b>📊 Big Data & Orchestration</b></h4>
-      <code>Apache Spark</code> • <code>PySpark Streaming</code> • <code>Delta Lake</code> • <code>Apache Iceberg</code> • <code>Dremio</code> • <code>Snowflake</code> • <code>Apache Airflow</code> • <code>Databricks</code> • <code>Apache Hadoop</code> • <code>Data Quality (Great Expectations)</code>
-    </td>
-    <td valign="top" width="50%">
-      <h4><b>🤖 Machine Learning & MLOps</b></h4>
-      <code>Scikit-learn</code> • <code>PyTorch</code> • <code>TensorFlow</code> • <code>TabPFN</code> • <code>Kaggle API</code> • <code>Hugging Face Hub</code> • <code>Conformal Prediction</code>
-      <br><br>
-      <h4><b>☁️ Cloud, Databases & DevOps</b></h4>
-      <code>AWS (EMR, S3, EC2, RDS, IAM)</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>MinIO / HDFS</code> • <code>AutoSys</code> • <code>GitHub Actions CI/CD</code> • <code>Pinecone / SimpleVectorStore</code> • <code>Allembic / migrations</code>
-    </td>
-  </tr>
-</table>
+* 🏗️ **Core Architectures:** Medallion Lakehouses (Delta Lake, Databricks), Real-Time Streaming (Kafka, PySpark), and Workflow Orchestration (Apache Airflow).
+* 🤖 **AI & Inference:** Tabular Foundation Models, Recommendation Ensembles (SASRec, LightGCN), Vector Search (`pgvector`), and Local LLM RAG pipelines.
+* 🏥 **Industry Domains:** Clinical Health Informatics (FHIR R4, OMOP CDM v5.4, ABDM compliance), Capital Markets, and Media Recommendation Platforms.
 
 ---
 
-### 📂 Featured Production Projects
+### 🚀 Technical Superpowers & Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 📂 Featured Flagship Production Platforms
 
 #### 🏥 [AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System)
-*Python, PySpark Streaming, Airflow, Delta Lake, FastAPI, Docker, Kubernetes, AWS*
-* Built an end-to-end data platform for **250k+ clinical records** using **Apache Airflow** and **PySpark** pipelines, staging data in partitioned **Delta Lake** tables.
-* Implemented automated cloud retraining triggers via **Kaggle API** and model weight synchronization with a private **Hugging Face** dataset hub.
-* Developed a **FastAPI** service with a local vector retrieval index (`turbovec` SIMD), JWT auth, and FHIR R4 clinical compliance serializers.
+*Enterprise AI Healthcare Lakehouse & Clinical Intelligence Platform*
+* **Architecture:** PySpark Medallion Lakehouse, Apache Airflow pipelines, FHIR R4 / OMOP CDM v5.4 compliance, and HIPAA-ready FastAPI backend.
+* **ML & RAG:** TabICLv2 Tabular Foundation Models, calibrated CatBoost/XGBoost ensembles with 95% Conformal Prediction sets, 10-year multi-organ digital twin simulator, and local Ollama LangGraph multi-agent RAG.
+* **Live Links:** [🤗 Hugging Face Live Interactive Space](https://huggingface.co/spaces/pavanbadempet/ai-healthcare-system) &middot; [🤗 Model Hub (16 Weights)](https://huggingface.co/pavanbadempet/ai-healthcare-models) &middot; [⭐ GitHub Repository](https://github.com/pavanbadempet/AI-Healthcare-System)
 
-#### 🎬 [Movie-Recommendation-System](https://github.com/pavanbadempet/Movie-Recommendation-System)
-*Python, PySpark, Airflow, Delta Lake, Redis, ONNX Runtime, FAISS, FastAPI, Docker*
-* Engineered a causal movie recommendation engine using **PySpark** Medallion pipelines for ETL and feature store curation.
-* Developed a real-time clickstream feedback loop using **Redis streams** to update user sequential states asynchronously (sub-10ms latency).
-* Implemented an adaptive serving API with hardware-aware fallbacks (NVIDIA GPU ensembling, quantized ONNX CPU, and SIMD vector index search).
+#### 🎬 [AI-Recommendation-System](https://github.com/pavanbadempet/AI-Recommendation-System)
+*Real-Time AI Media Recommendation Engine & Unified Data Intelligence Platform*
+* **Scale:** Ingests and processes **21M+ real records** (1M+ TMDB movies and 20M+ MovieLens ratings) across a Databricks Serverless Medallion Lakehouse.
+* **Deep Learning & Search:** SASRec sequential transformers, LightGCN graph embeddings, and a 10-shard Neon Serverless `pgvector` HNSW cluster (<5ms query latency).
+* **Live Links:** [🌐 Live Cinema Portal Demo](https://pavanbadempet.github.io/AI-Recommendation-System/) &middot; [⭐ GitHub Repository](https://github.com/pavanbadempet/AI-Recommendation-System)
+
+#### 💡 [neetcode-submissions](https://github.com/pavanbadempet/neetcode-submissions)
+*Curated NeetCode 150 & Blind 75 Algorithmic Solutions in Python & SQL*
+* Comprehensive implementations covering Dynamic Programming, Trees, Graphs, Sliding Window, Heap, and Two Pointers.
+* [⭐ Explore Solutions](https://github.com/pavanbadempet/neetcode-submissions)
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="left">
-  <a href="https://github.com/pavanbadempet">
-    <img src="https://github-readme-stats.vercel.app/api?username=pavanbadempet&show_icons=true&theme=tokyonight&count_private=true" alt="Pavan's GitHub Stats" height="180px"/>
-  </a>
-  <a href="https://github.com/pavanbadempet">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbadempet&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Pavan's Top Languages" height="180px"/>
-  </a>
+<p align="center">
+  <a href="https://github.com/pavanbadempet/AI-Healthcare-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Healthcare-System?label=AI-Healthcare%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-Healthcare Stars" /></a>
+  <a href="https://github.com/pavanbadempet/AI-Recommendation-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Recommendation-System?label=AI-RecSys%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-RecSys Stars" /></a>
+  <a href="https://github.com/pavanbadempet/PRABC"><img src="https://img.shields.io/github/stars/pavanbadempet/PRABC?label=PRABC%20Stars&style=for-the-badge&logo=github&color=0969da" alt="PRABC Stars" /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/pavanbadempet">
-    <img src="https://streak-stats.demolab.com/?user=pavanbadempet&theme=tokyonight" alt="Pavan's Contribution Streak" />
+    <img src="https://streak-stats.demolab.com/?user=pavanbadempet&theme=tokyonight&hide_border=true" alt="Pavan's Contribution Streak" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect & Collaborate
+### 🌐 Connect & Professional Links
 
-* 💼 **LinkedIn:** Connect with [Pavan Badempet on LinkedIn](https://www.linkedin.com/in/pavanbadempet/) to discuss data engineering opportunities.
-* ✍️ **Blog & Portfolio:** Visit [Pavan's Data Engineering Portfolio and Blog](https://pavanbadempet.github.io) for system architecture guides and big data tutorials.
-* 💬 **Stack Overflow:** View the [Pavan Badempet Stack Overflow Profile](https://stackoverflow.com/users/6325621/pavan-badempet) to see community Q&A contributions.
-* 📮 **Get in Touch:** Shoot me an email or open an issue on any of my active repositories!
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavanbadempet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pavanbadempet.github.io"><img src="https://img.shields.io/badge/Portfolio%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://huggingface.co/pavanbadempet"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://stackoverflow.com/users/6325621/pavan-badempet"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="mailto:pavan9b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
 <details>
-  <summary>🔍 Career Keywords & Technical Index (SEO)</summary>
+  <summary>🔍 Career Keywords & Technical Index (Search Engine Optimization)</summary>
   <p>
-    This profile indexes major industry domains and systems:
-    <strong>Core Specializations:</strong> Data Platform Architect, Big Data Engineer Portfolio, MLOps Pipelines, Python and Scala Developer, AWS Solutions, Lakehouse Architect.
-    <strong>Distributed Platforms:</strong> Apache Spark, PySpark Streaming, Delta Lake, Apache Airflow, Databricks, Data Lakehouses, PySpark ETL.
-    <strong>AI Infrastructure & Inference:</strong> FT-Transformer models, TabPFN models, PyTorch Tabular MLP ensembles, conformal prediction bounds, Hugging Face Hub, Kaggle API integration.
-    <strong>Compliance & Health Informatics:</strong> Ayushman Bharat Digital Mission (ABDM) gateways, FHIR standards, vital signals streaming.
+    <strong>Core Specializations:</strong> Lead Data Engineer, Senior Data Architect, Big Data Engineer Portfolio, MLOps Engineer, Lakehouse Architect, Python Developer, PySpark Specialist, Distributed Systems Engineer.
+    <strong>Distributed Computing & Lakehouse:</strong> Apache Spark, PySpark Streaming, Delta Lake, Apache Iceberg, Apache Airflow, Databricks Medallion Lakehouse, Data Vault 2.0, SCD Type 2, Liquid Clustering, Z-Order Optimization, Great Expectations.
+    <strong>Machine Learning & Search:</strong> Recommendation Engines, SASRec, LightGCN, Graph Neural Networks, PyTorch, pgvector HNSW Indexing, Vector Databases, Conformal Prediction, Hugging Face Spaces, Ollama Local Inference, LangGraph Multi-Agent RAG.
+    <strong>Cloud & Infrastructure:</strong> Amazon Web Services (AWS EMR, S3, Glue, Athena, RDS, ECS), Docker Containerization, Kubernetes Orchestration, CI/CD GitHub Actions, PostgreSQL, Redis Streaming.
+    <strong>Algorithms & Code:</strong> NeetCode 150 Solutions, Blind 75 LeetCode Python, Data Structures and Algorithms.
   </p>
 </details>
 
