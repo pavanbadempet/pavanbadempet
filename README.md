@@ -61,10 +61,6 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
 * **Deep Learning & Search:** SASRec sequential transformers, LightGCN graph embeddings, and a 10-shard Neon Serverless `pgvector` HNSW cluster (<5ms query latency).
 * **Live Links:** [🌐 Live Cinema Portal Demo](https://pavanbadempet.github.io/AI-Recommendation-System/) &middot; [⭐ GitHub Repository](https://github.com/pavanbadempet/AI-Recommendation-System)
 
-#### 💡 [neetcode-submissions](https://github.com/pavanbadempet/neetcode-submissions)
-*Curated NeetCode 150 & Blind 75 Algorithmic Solutions in Python & SQL*
-* Comprehensive implementations covering Dynamic Programming, Trees, Graphs, Sliding Window, Heap, and Two Pointers.
-* [⭐ Explore Solutions](https://github.com/pavanbadempet/neetcode-submissions)
 
 ---
 
@@ -103,7 +99,6 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
     <strong>Distributed Computing & Lakehouse:</strong> Apache Spark, PySpark Streaming, Delta Lake, Apache Iceberg, Apache Airflow, Databricks Medallion Lakehouse, Data Vault 2.0, SCD Type 2, Liquid Clustering, Z-Order Optimization, Great Expectations.
     <strong>Machine Learning & Search:</strong> Recommendation Engines, SASRec, LightGCN, Graph Neural Networks, PyTorch, pgvector HNSW Indexing, Vector Databases, Conformal Prediction, Hugging Face Spaces, Ollama Local Inference, LangGraph Multi-Agent RAG.
     <strong>Cloud & Infrastructure:</strong> Amazon Web Services (AWS EMR, S3, Glue, Athena, RDS, ECS), Docker Containerization, Kubernetes Orchestration, CI/CD GitHub Actions, PostgreSQL, Redis Streaming.
-    <strong>Algorithms & Code:</strong> NeetCode 150 Solutions, Blind 75 LeetCode Python, Data Structures and Algorithms.
   </p>
 </details>
 
