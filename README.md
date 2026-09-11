@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm <span itemprop="name">Pavan Badempet</span>
 
-![Pavan Badempet Profile Banner](profile_banner.png)
+<p align="center">
+  <img src="profile_banner.png" alt="Pavan Badempet Profile Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanbadempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
