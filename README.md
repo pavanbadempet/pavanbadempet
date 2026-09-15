@@ -70,12 +70,7 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
   <a href="https://github.com/pavanbadempet/AI-Healthcare-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Healthcare-System?label=AI-Healthcare%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-Healthcare Stars" /></a>
   <a href="https://github.com/pavanbadempet/AI-Recommendation-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Recommendation-System?label=AI-RecSys%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-RecSys Stars" /></a>
   <a href="https://github.com/pavanbadempet/PRABC"><img src="https://img.shields.io/github/stars/pavanbadempet/PRABC?label=PRABC%20Stars&style=for-the-badge&logo=github&color=0969da" alt="PRABC Stars" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pavanbadempet">
-    <img src="https://streak-stats.demolab.com/?user=pavanbadempet&theme=tokyonight&hide_border=true" alt="Pavan's Contribution Streak" />
-  </a>
+  <a href="https://github.com/pavanbadempet?tab=followers"><img src="https://img.shields.io/github/followers/pavanbadempet?label=Followers&style=for-the-badge&logo=github&color=1f2328" alt="GitHub Followers" /></a>
 </p>
 
 <p align="center">
