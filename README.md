@@ -15,10 +15,14 @@
 
 ## 🌌 <span itemprop="jobTitle">Data & MLOps Platform Engineer</span> | Big Data Architect
 
-<meta itemprop="url" content="https://pavanbadempet.github.io" />
+<meta itemprop="url" content="https://pavanbadempet.gitlab.io" />
 <meta itemprop="knowsAbout" content="Data Engineering, Big Data, MLOps, Apache Spark, PySpark, Delta Lake, Apache Airflow, Databricks, Python, Scala, AWS, Kubernetes, PyTorch, Conformal Prediction, Lakehouse Architecture, Recommendation Systems, Clinical Data Pipelines" />
 <link itemprop="sameAs" href="https://www.linkedin.com/in/pavanbadempet/" />
+<link itemprop="sameAs" href="https://gitlab.com/pavanbadempet" />
+<link itemprop="sameAs" href="https://huggingface.co/pavan9b" />
+<link itemprop="sameAs" href="https://orcid.org/0009-0005-4634-4508" />
 <link itemprop="sameAs" href="https://stackoverflow.com/users/6325621/pavan-badempet" />
+<link itemprop="sameAs" href="https://www.wikidata.org/wiki/Q139819535" />
 
 I am a **Data Platform Engineer and MLOps Architect** specializing in production-grade distributed lakehouses, high-throughput streaming pipelines, and scalable machine learning infrastructure.
 
@@ -49,17 +53,17 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
 
 ### 📂 Featured Flagship Production Platforms
 
-#### 🏥 [AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System)
+#### 🏥 [AI-Healthcare-System](https://gitlab.com/pavanbadempet/AI-Healthcare-System)
 *Enterprise AI Healthcare Lakehouse & Clinical Intelligence Platform*
 * **Architecture:** PySpark Medallion Lakehouse, Apache Airflow pipelines, FHIR R4 / OMOP CDM v5.4 compliance, and HIPAA-ready FastAPI backend.
 * **ML & RAG:** TabICLv2 Tabular Foundation Models, calibrated CatBoost/XGBoost ensembles with 95% Conformal Prediction sets, 10-year multi-organ digital twin simulator, and local Ollama LangGraph multi-agent RAG.
-* **Live Links:** [🤗 Hugging Face Live Interactive Space](https://huggingface.co/spaces/pavanbadempet/aio-health-backend) &middot; [🤗 Model Hub (16 Weights)](https://huggingface.co/pavanbadempet/ai-healthcare-models) &middot; [⭐ GitHub Repository](https://github.com/pavanbadempet/AI-Healthcare-System)
+* **Live Links:** [🤗 Hugging Face Live Interactive Space](https://huggingface.co/spaces/pavanbadempet/aio-health-backend) &middot; [🤗 Model Hub (16 Weights)](https://huggingface.co/pavanbadempet/ai-healthcare-models) &middot; [🦊 GitLab Repository](https://gitlab.com/pavanbadempet/AI-Healthcare-System)
 
-#### 🎬 [AI-Recommendation-System](https://github.com/pavanbadempet/AI-Recommendation-System)
+#### 🎬 [AI-Recommendation-System](https://gitlab.com/pavanbadempet/AI-Recommendation-System)
 *Real-Time AI Media Recommendation Engine & Unified Data Intelligence Platform*
 * **Scale:** Ingests and processes **21M+ real records** (1M+ TMDB movies and 20M+ MovieLens ratings) across a Databricks Serverless Medallion Lakehouse.
 * **Deep Learning & Search:** SASRec sequential transformers, LightGCN graph embeddings, and a 10-shard Neon Serverless `pgvector` HNSW cluster (<5ms query latency).
-* **Live Links:** [🌐 Live Cinema Portal Demo](https://pavanbadempet.github.io/AI-Recommendation-System/) &middot; [🤗 Hugging Face Space UI](https://huggingface.co/spaces/pavanbadempet/movie-rec-ui) &middot; [⭐ GitHub Repository](https://github.com/pavanbadempet/AI-Recommendation-System)
+* **Live Links:** [🌐 Live Portfolio Showcase](https://pavanbadempet.gitlab.io/portfolio/) &middot; [🤗 Hugging Face Space UI](https://huggingface.co/spaces/pavanbadempet/movie-rec-ui) &middot; [🦊 GitLab Repository](https://gitlab.com/pavanbadempet/AI-Recommendation-System)
 
 
 ---
@@ -87,8 +91,9 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavanbadempet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pavanbadempet.github.io"><img src="https://img.shields.io/badge/Portfolio%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://huggingface.co/pavanbadempet"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://pavanbadempet.gitlab.io"><img src="https://img.shields.io/badge/Portfolio%20Website-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://gitlab.com/pavanbadempet"><img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://huggingface.co/pavan9b"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://stackoverflow.com/users/6325621/pavan-badempet"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://orcid.org/0009-0005-4634-4508"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="mailto:pavan9b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
