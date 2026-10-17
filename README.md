@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavan-badempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_Views-Active-007ec6?style=flat-square" alt="Pavan Badempet Profile Views" />
   <a href="https://github.com/pavan-badempet?tab=followers"><img src="https://img.shields.io/github/followers/pavan-badempet?label=Followers&style=flat-square&logo=github&color=24292e" alt="Followers" /></a>
   <a href="https://github.com/sponsors/pavan-badempet"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?logo=github&style=flat-square" alt="Sponsor Pavan Badempet" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square" alt="License: AGPL v3" /></a>
