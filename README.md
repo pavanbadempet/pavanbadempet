@@ -123,6 +123,17 @@
 * **Core:** React SPA hosted on GitHub Pages demonstrating end-to-end distributed system blueprints, live telemetry, and project benchmarks.
 * **Live Links:** [🌐 pavan-badempet.github.io](https://pavan-badempet.github.io) &middot; [🐙 GitHub Repository](https://github.com/pavan-badempet/pavan-badempet.github.io)
 
+### 🏆 Official GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" alt="Starstruck" title="Starstruck" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+</p>
+
 ---
 
 ### 📊 GitHub Activity & Metrics
