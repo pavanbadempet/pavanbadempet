@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanbadempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
-  <a href="https://github.com/pavanbadempet?tab=followers"><img src="https://img.shields.io/github/followers/pavanbadempet?label=Followers&style=flat-square&logo=github&color=24292e" alt="Followers" /></a>
-  <a href="https://github.com/sponsors/pavanbadempet"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?logo=github&style=flat-square" alt="Sponsor Pavan Badempet" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pavan-badempet&label=Profile+Views&color=007ec6&style=flat-square" alt="Pavan Badempet Profile Views" />
+  <a href="https://github.com/pavan-badempet?tab=followers"><img src="https://img.shields.io/github/followers/pavan-badempet?label=Followers&style=flat-square&logo=github&color=24292e" alt="Followers" /></a>
+  <a href="https://github.com/sponsors/pavan-badempet"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa.svg?logo=github&style=flat-square" alt="Sponsor Pavan Badempet" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=flat-square" alt="License: AGPL v3" /></a>
 </p>
 
 ## 🌌 <span itemprop="jobTitle">Data & MLOps Platform Engineer</span> | Big Data Architect
 
-<meta itemprop="url" content="https://pavanbadempet.gitlab.io" />
+<meta itemprop="url" content="https://pavan-badempet.github.io" />
 <meta itemprop="knowsAbout" content="Data Engineering, Big Data, MLOps, Apache Spark, PySpark, Delta Lake, Apache Airflow, Databricks, Python, Scala, AWS, Kubernetes, PyTorch, Conformal Prediction, Lakehouse Architecture, Recommendation Systems, Clinical Data Pipelines" />
 <link itemprop="sameAs" href="https://www.linkedin.com/in/pavanbadempet/" />
-<link itemprop="sameAs" href="https://gitlab.com/pavanbadempet" />
+<link itemprop="sameAs" href="https://github.com/pavan-badempet" />
 <link itemprop="sameAs" href="https://huggingface.co/pavan9b" />
 <link itemprop="sameAs" href="https://orcid.org/0009-0005-4634-4508" />
 <link itemprop="sameAs" href="https://stackoverflow.com/users/6325621/pavan-badempet" />
@@ -53,35 +53,39 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
 
 ### 📂 Featured Flagship Production Platforms
 
-#### 🏥 [AI-Healthcare-System](https://gitlab.com/pavanbadempet/AI-Healthcare-System)
+#### 🏥 [AI-Healthcare-System](https://github.com/pavan-badempet/AI-Healthcare-System)
 *Enterprise AI Healthcare Lakehouse & Clinical Intelligence Platform*
 * **Architecture:** PySpark Medallion Lakehouse, Apache Airflow pipelines, FHIR R4 / OMOP CDM v5.4 compliance, and HIPAA-ready FastAPI backend.
 * **ML & RAG:** TabICLv2 Tabular Foundation Models, calibrated CatBoost/XGBoost ensembles with 95% Conformal Prediction sets, 10-year multi-organ digital twin simulator, and local Ollama LangGraph multi-agent RAG.
-* **Live Links:** [🤗 Hugging Face Live Interactive Space](https://huggingface.co/spaces/pavanbadempet/aio-health-backend) &middot; [🤗 Model Hub (16 Weights)](https://huggingface.co/pavanbadempet/ai-healthcare-models) &middot; [🦊 GitLab Repository](https://gitlab.com/pavanbadempet/AI-Healthcare-System)
+* **Live Links:** [🤗 Hugging Face Live Interactive Space](https://huggingface.co/spaces/pavanbadempet/aio-health-backend) &middot; [🤗 Model Hub (16 Weights)](https://huggingface.co/pavanbadempet/ai-healthcare-models) &middot; [🐙 GitHub Repository](https://github.com/pavan-badempet/AI-Healthcare-System)
 
-#### 🎬 [AI-Recommendation-System](https://gitlab.com/pavanbadempet/AI-Recommendation-System)
+#### 🎬 [Movie-Recommendation-System](https://github.com/pavan-badempet/Movie-Recommendation-System)
 *Real-Time AI Media Recommendation Engine & Unified Data Intelligence Platform*
 * **Scale:** Ingests and processes **21M+ real records** (1M+ TMDB movies and 20M+ MovieLens ratings) across a Databricks Serverless Medallion Lakehouse.
 * **Deep Learning & Search:** SASRec sequential transformers, LightGCN graph embeddings, and a 10-shard Neon Serverless `pgvector` HNSW cluster (<5ms query latency).
-* **Live Links:** [🌐 Live Portfolio Showcase](https://pavanbadempet.gitlab.io/portfolio/) &middot; [🤗 Hugging Face Space UI](https://huggingface.co/spaces/pavanbadempet/movie-rec-ui) &middot; [🦊 GitLab Repository](https://gitlab.com/pavanbadempet/AI-Recommendation-System)
+* **Live Links:** [🌐 Live Portfolio Showcase](https://pavan-badempet.github.io/portfolio/) &middot; [🤗 Hugging Face Space UI](https://huggingface.co/spaces/pavanbadempet/movie-rec-ui) &middot; [🐙 GitHub Repository](https://github.com/pavan-badempet/Movie-Recommendation-System)
 
+#### ⚡ [sparklineage](https://github.com/pavan-badempet/sparklineage)
+*High-Performance Rust Execution Plan & Transformation Lineage Analyzer for Apache Spark*
+* **Core:** Zero-overhead SIMD-accelerated PyO3 FFI Rust extension parsing Spark logical/physical execution plans into interactive DAG lineages.
+* **Live Links:** [🐙 GitHub Repository](https://github.com/pavan-badempet/sparklineage)
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <a href="https://github.com/pavanbadempet/AI-Healthcare-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Healthcare-System?label=AI-Healthcare%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-Healthcare Stars" /></a>
-  <a href="https://github.com/pavanbadempet/AI-Recommendation-System"><img src="https://img.shields.io/github/stars/pavanbadempet/AI-Recommendation-System?label=AI-RecSys%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-RecSys Stars" /></a>
-  <a href="https://github.com/pavanbadempet/PRABC"><img src="https://img.shields.io/github/stars/pavanbadempet/PRABC?label=PRABC%20Stars&style=for-the-badge&logo=github&color=0969da" alt="PRABC Stars" /></a>
-  <a href="https://github.com/pavanbadempet?tab=followers"><img src="https://img.shields.io/github/followers/pavanbadempet?label=Followers&style=for-the-badge&logo=github&color=1f2328" alt="GitHub Followers" /></a>
+  <a href="https://github.com/pavan-badempet/AI-Healthcare-System"><img src="https://img.shields.io/github/stars/pavan-badempet/AI-Healthcare-System?label=AI-Healthcare%20Stars&style=for-the-badge&logo=github&color=0969da" alt="AI-Healthcare Stars" /></a>
+  <a href="https://github.com/pavan-badempet/Movie-Recommendation-System"><img src="https://img.shields.io/github/stars/pavan-badempet/Movie-Recommendation-System?label=Movie-RecSys%20Stars&style=for-the-badge&logo=github&color=0969da" alt="Movie-RecSys Stars" /></a>
+  <a href="https://github.com/pavan-badempet/sparklineage"><img src="https://img.shields.io/github/stars/pavan-badempet/sparklineage?label=sparklineage%20Stars&style=for-the-badge&logo=github&color=0969da" alt="sparklineage Stars" /></a>
+  <a href="https://github.com/pavan-badempet?tab=followers"><img src="https://img.shields.io/github/followers/pavan-badempet?label=Followers&style=for-the-badge&logo=github&color=1f2328" alt="GitHub Followers" /></a>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavanbadempet/pavanbadempet/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavanbadempet/pavanbadempet/output/github-contribution-grid-snake.svg">
-    <img alt="Pavan's Contribution Grid Snake" src="https://raw.githubusercontent.com/pavanbadempet/pavanbadempet/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavan-badempet/pavan-badempet/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavan-badempet/pavan-badempet/output/github-contribution-grid-snake.svg">
+    <img alt="Pavan's Contribution Grid Snake" src="https://raw.githubusercontent.com/pavan-badempet/pavan-badempet/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
@@ -91,12 +95,12 @@ I am a **Data Platform Engineer and MLOps Architect** specializing in production
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pavanbadempet/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pavanbadempet.gitlab.io"><img src="https://img.shields.io/badge/Portfolio%20Website-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://gitlab.com/pavanbadempet"><img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  <a href="https://pavan-badempet.github.io"><img src="https://img.shields.io/badge/Portfolio%20Website-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/pavan-badempet"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://huggingface.co/pavan9b"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="https://stackoverflow.com/users/6325621/pavan-badempet"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://orcid.org/0009-0005-4634-4508"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="mailto:pavan9b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:badempetp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
